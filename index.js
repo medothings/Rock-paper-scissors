@@ -40,7 +40,7 @@ function game() {
     let winner = playRound();
     if (winner === "player") playerScore++;
     if (winner === "computer") computerScore++;
-    console.log(`You have played ${gamesPlayed + 1}q number of games`);
+    console.log(`You have played ${gamesPlayed + 1}q number of games`); 
   }
 
   console.log(
