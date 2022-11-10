@@ -1,6 +1,8 @@
 # The rock paper scissors console project
+Anyway, before I start talking about all the boring stuff that I was forced to write, go visit [the live weblink]().    
+Also you should probbaly know that this page is based on [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) of the [Foundatins Course](https://www.theodinproject.com/paths/foundations/courses/foundations) from [the Odin Project](https://www.theodinproject.com)
 
-## What i learnt from creating this page
+## What I learnt from creating this page
 - How to choose a random word, rock, paper, or scissors
 ```js
 const choices = ["rock", "paper", "scissors"];
@@ -24,7 +26,21 @@ prompt("Choose your weapon. Rock, paper, or scissors?");
 - "==" and "===" are practically the same thing. They both work fine
 - Use "const" when you can, use "let" when the variable doesn't change, and don't even think about using "var"
   - Because my dad said so
-- 
 - Also something interesting I learnt while writing this and the previous READMEs, the "'" is always further than you think it is.
   - I mean, when I'm writing "don't"(even though technically, I should be using do not, though I'm pretty confident that no one likes to read boring files, so I try to keep it casual), I am constantly writing "don;t", then I have to go delete the ";" and then type in the "'"
 - Last thing, my dad knows a lot
+
+## Ideas for future developement
+Well right now, I only have the console version, so the future development is pretty easy
+
+- Add code to html and css to add things to the page
+
+## Credits
+I didn't have any pictures or icons yet, so
+
+-Nil
+
+## Issues
+Well, I'd say
+
+- Nil
