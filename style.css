@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  /* border: 1px red solid; */
+  padding: 0;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 150px;
+  height: 160px;
+  margin: 20px;
+}
+
+.box .clicked {
+  border: 5px dashed purple;
+  scale: 1.1;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+}
+
+#message {
+  font-size: 1.5rem;
+}
