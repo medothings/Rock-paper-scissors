@@ -1,6 +1,6 @@
 # The rock paper scissors project
 Anyway, before I start talking about all the boring stuff that I was forced to write, go visit [the live weblink]().    
-Also you should probbaly know that this page is based on [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) of the [Foundatins Course](https://www.theodinproject.com/paths/foundations/courses/foundations) from [the Odin Project](https://www.theodinproject.com)
+Also you should probbaly know that this page is based on [Project: Rock paper scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) of the [Foundatins Course](https://www.theodinproject.com/paths/foundations/courses/foundations) from [the Odin Project](https://www.theodinproject.com)
 ## Console version
 ### What I learnt from creating this page
 - How to choose a random word, rock, paper, or scissors
